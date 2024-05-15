@@ -1,0 +1,18 @@
+Create Spring Boot Project using h2 database 
+Create Product Management Project (using microservices) (Don’t create registry and api)
+Create 2 Microservices.
+1. Product - (id, type), All fields are mandatory (type should be mobile, laptop)
+Create API
+Get Prodcut By Id; 
+Get Products By type;
+Get ProductsAndDesc by id;
+Post new Product 
+2. ProductDescription (id,brand,model, prize ) All fields are mandatory 
+Create API
+Get byid;
+Post new ProductDescription
+Test them and keep in your system.
+Do it in your VM provided by IIHT.
+Do maven clean and zip the file.
+Push this 2 microservices on github and send the 
+Zip files and links to github only; ( No jars should be uploaded )
